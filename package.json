@@ -1,0 +1,15 @@
+{
+  "name": "vitest-vanilla-extract-v4-plugin-windows-bug",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@vanilla-extract/css": "1.14.1",
+    "@vanilla-extract/vite-plugin": "4.0.4",
+    "typescript": "5.3.3",
+    "vitest": "1.2.2"
+  }
+}
